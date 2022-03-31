@@ -1,2 +1,2 @@
 # gitub
-this is a github
+i am learning github
